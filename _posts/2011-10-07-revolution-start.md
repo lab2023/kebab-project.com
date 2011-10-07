@@ -6,6 +6,17 @@ title: "Revolution Start"
 Revolution Start
 ================
 
-Jekyll can also be made to run on Windows Operating System. This prefer when I am working on my office laptop which has Windows 7 installed on it. Following packages are required to setup Jekyll on Windows: Ruby : Can be installed from here Ruby Development Kit: available on here Jekyll Python : I used the portable version available here Pygments 1 Install the Ruby from http://rubyinstaller.org/downloads/ and install it to path such as C:\ruby..
+We start the revolution. Join or die!
 
-Jekyll can also be made to run on Windows Operating System. This prefer when I am working on my office laptop which has Windows 7 installed on it. Following packages are required to setup Jekyll on Windows: Ruby : Can be installed from here Ruby Development Kit: available on here Jekyll Python : I used the portable version available here Pygments 1 Install the Ruby from http://rubyinstaller.org/downloads/ and install it to path such as C:\ruby..
+Why this is a revolution?
+
+You can see the all discussion requests about v.2.x at the link http://kebab-project.2299591.n4.nabble.com/Kebab-2-0-Features-Request-Discussion-td3864746.html
+
+  * We will change the server side language. We move to Ruby and using the Ruby on Rails
+  * We will use Ext Js 4.0. So we have a MVC structure come from Ext Js.
+  * We will write all tests! Unit, functionality, etc
+  * Kebab 2.0 support multi tent applications like highrise etc.
+  * we design it for cloud, cdn systems
+  * What about v.1.5.x? We continue to support v.1.5.x.
+
+Best Regards.
