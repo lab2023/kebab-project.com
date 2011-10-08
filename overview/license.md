@@ -31,25 +31,12 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 
 ## Kebab Reloaded v.1.5.x
 
-[Zend Framework]
-
-  * Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
-  * http://framework.zend.com/license/new-bsd     New BSD License
-
-Doctrine 1.2.x
-
-  * Copyright (c) www.doctrine-project.org
-  * http://www.opensource.org/licenses/lgpl-license.php LGPL
-
-ExtJs 3.3.1
-
-  * Copyright (c) http://www.sencha.com
-  * http://www.sencha.com/store/js/license.php Dual License
-
-Imind Library
-
-  * Copyright (c) iMind Ltd. (http://www.imind.hu)
-  * http://www.opensource.org/licenses/bsd-license.php New BSD License
+* [Zend Framework](http://framework.zend.com/license/new-bsd)
+* [Doctrine 1.2.4](http://www.opensource.org/licenses/lgpl-license.php)
+* [ExtJs 3.4.0](http://www.sencha.com/store/js/license.php)
+* [Imind Library](http://www.opensource.org/licenses/bsd-license.php)
+* [Famfamfam](http://www.famfamfam.com)
+* [960.gs](http://960.gs)
 
 Ext.ux Plugins
 
@@ -70,15 +57,7 @@ Ext-os (ExtTop)
   * this thread on the ext js forums:
   * http://extjs.com/forum/showthread.php?t=10950
 
-Famfamfam (Silk Icon Set & Flag Icon Set)
 
-  * famfamfam.com is the website of Mark James, a web developer from Birmingham, UK.
-  * http://www.famfamfam.com
-
-960.gs (960 Grid System)
-
-  * 960 Grid System by Nathan Smith.
-  * http://960.gs
 
 Google Maps v3 API
 
