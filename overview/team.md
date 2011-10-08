@@ -3,7 +3,9 @@ title: Team
 layout: wikistyle
 ---
 
-Team
-====
+# Team
 
-Kebab is etc etc ...
+## Core Team
+
+Onur Özgür ÖZKAN @onurozgurozkan
+Tayfun Öziş ERİKAN @tayfunoziserikan
