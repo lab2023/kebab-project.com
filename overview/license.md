@@ -5,7 +5,7 @@ layout: wikistyle
 
 # License
 
-## Kebab Reloaded (v.1.5.x) and Kebab Revolution (v.2.0.x)
+## Kebab Project
 
 The MIT License (MIT)
 Copyright (c) 2009-2011 - lab2023.com LLC
@@ -46,7 +46,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 
 # Credits of Wallpaper pictures, images, icons etc.
 
-Vladstudio Underwater2 & Gecko Wallpapers
+**Vladstudio Underwater2 & Gecko Wallpapers**
 
-The wallpaper pictures, vladstudio_underwater2.jpg, vladstudio_gecko.jpg, were downloaded from http://www.vladstudio.com/home.
+The wallpaper pictures, vladstudio_underwater2.jpg, vladstudio_gecko.jpg, were downloaded from <http://www.vladstudio.com/home>.
 You can find more wallpapers which are free or commercial.
