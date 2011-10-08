@@ -8,7 +8,7 @@ layout: wikistyle
 ## Kebab Reloaded (v.1.5.x) and Kebab Revolution (v.2.0.x)
 
 The MIT License (MIT)
-Copyright (c) <2009-2011> <lab2023.com LLC>
+Copyright (c) 2009-2011 - lab2023.com LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy,
