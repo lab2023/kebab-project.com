@@ -7,14 +7,16 @@ layout: wikistyle
 
 ## Kebab Revolution (v.2.0.x)
 
-* User Authentication
-* User & Role Management
-* Privileges, Service and Application Management
-* Modular Structure & Hmvc
-* Kebab Application - Ext Js 4.x Hmvc Structure
-* Kebab Services - Ror 3.x Hmvc Structure
-* RESTfull Standards
-* Ajax Based
+* Still in development
+
+**ROADMAP**
+
+* Multi-tenant support
+* i18n support
+* Authentication - Login, Logout, ForgetPassword, Register
+* Authorization  - User & Role & Privileges Management
+* Ext Js Application Management
+* RESTfull Ruby on Rails Service Management
 
 ## Kebab Reloaded (v.1.5.x)
 
