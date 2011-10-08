@@ -27,22 +27,19 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 ## Kebab Reloaded v.2.0.x
 
 - Ruby on Rails 3.x
-
 - Ext Js 4.x
 
 ## Kebab Reloaded v.1.5.x
 
-- Zend Framework
-    * Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
-    * http://framework.zend.com/license/new-bsd     New BSD License
-
-- Doctrine 1.2.x
-    * Copyright (c) www.doctrine-project.org
-    * http://www.opensource.org/licenses/lgpl-license.php LGPL
-
-- ExtJs 3.3.1
-    * Copyright (c) http://www.sencha.com
-    * http://www.sencha.com/store/js/license.php Dual License
+* Zend Framework
+  * Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
+  * http://framework.zend.com/license/new-bsd     New BSD License
+* Doctrine 1.2.x
+  * Copyright (c) www.doctrine-project.org
+  * http://www.opensource.org/licenses/lgpl-license.php LGPL
+* ExtJs 3.3.1
+  * Copyright (c) http://www.sencha.com
+  * http://www.sencha.com/store/js/license.php Dual License
 
 - Imind Library
     * Copyright (c) iMind Ltd. (http://www.imind.hu)
