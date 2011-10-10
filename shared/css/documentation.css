@@ -104,7 +104,6 @@ p.attention {
 a img {
     border: 0px;
 }
-
 /*------------------------------------------------------------------------------
      Header Styles
 ------------------------------------------------------------------------------*/
@@ -319,7 +318,7 @@ div.sidebar-module ul ul li span {
     bottom: 0;
     font-size: 13px;
     color: #636363;
-    margin: 45px 0 0 0;
+    margin: 20px 0 0 0;
 }
 
 #footer a:hover {
