@@ -345,20 +345,20 @@ div.sidebar-module ul ul li span {
   background: url(../images/bg_footer_top.png) #f8f8f8 repeat-x;
 }
 
-#footer #blacktocat {
+#footer #blackebab {
   height:130px;
   width:164px;
   float:left;
-  background: url(../images/blacktocat.png) top left no-repeat;
+  background: url(../images/blackebab.png) top left no-repeat;
   text-indent: -5000px;
   margin: 15px 20px 0 0;
 }
 
-#footer #blacktocat_ie {
+#footer #blackebab_ie {
   height:130px;
   width:164px;
   float:left;
-  background: url(../images/blacktocat.png) no-repeat;
+  background: url(../images/blackebab.png) no-repeat;
   text-indent: -5000px;
   margin: 15px 20px 0 0;
 }
