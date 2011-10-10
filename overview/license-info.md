@@ -1,9 +1,9 @@
 ---
-title: License
+title: License Info
 layout: wikistyle
 ---
 
-# License
+# License Info
 
 ## Kebab Project
 

@@ -344,9 +344,9 @@ div.sidebar-module ul ul li span {
 
 #footer #blackebab {
     height: 130px;
-    width: 164px;
+    width: 130px;
     float: left;
-    background: url(../images/blackebab.png) top left no-repeat;
+    background: url(../images/blackebab.png) center no-repeat;
     text-indent: -5000px;
     margin: 15px 20px 0 0;
 }
@@ -363,7 +363,7 @@ div.sidebar-module ul ul li span {
 #footer .upper_footer ul.footer_nav {
     position: relative;
     float: left;
-    width: 164px;
+    width: 142px;
     margin: 20px 10px;
 }
 

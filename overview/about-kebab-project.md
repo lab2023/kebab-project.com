@@ -1,9 +1,9 @@
 ---
-title: About Kebab
+title: About Kebab Project
 layout: wikistyle
 ---
 
-About Kebab
+About Kebab Project
 ===========
 
 Kebab is cloud desktop presents, organizes and manages the users' and roles' data, privileges, apps.

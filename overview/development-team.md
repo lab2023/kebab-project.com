@@ -1,9 +1,9 @@
 ---
-title: Team
+title: Development Team
 layout: wikistyle
 ---
 
-# Team
+# Development Team
 
 ## Core Team
 
