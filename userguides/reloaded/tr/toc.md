@@ -3,15 +3,20 @@ title: About Kebab Project
 layout: wikistyle
 ---
 
-About Kebab Project
-===========
+# Kebab 1.5.x - Reloaded - Kullanma Kılavuzu
 
-Kebab is cloud desktop presents, organizes and manages the users' and roles' data, privileges, apps.
+## İçindekiler
 
-Kebab is not a product for end users. Kebab is development platform for developers. If a developer want to develop a
-cloud, cdn, restFull, ajax based, multi-tenant application, kebab is for him/her.
+### Genel
 
-We develops Kebab for us! We wanted a platform which helps us easily, faster, not hurt when developing web applications.
+* [Kebab'ın Apache Üzerine Kurulumu](/userguides/reloaded/tr/overview/install-kebab-reloaded-on-apache.html)
+
+### Server
+
+### İstemci
+
+### İleri Seviye
+
 
 
 
