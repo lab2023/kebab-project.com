@@ -29,12 +29,12 @@ Bu yazıda editör olarak nano kullanılmıştır. Siz istediğiniz bir editör�
 * `sudo nano kebab.local`
 * Aşağıdaki satırları ekliyoruz
 
-<code>
-  &#60; VirtualHost *:80>
-    ServerName   www.kebab.local
-    DocumentRoot /var/www/kebab/web
-  </VirtualHost>
-</code>
+<pre>
+&#60;VirtualHost *:80>
+  ServerName   www.kebab.local
+  DocumentRoot /var/www/kebab/web
+&#60;/VirtualHost>
+</pre>
 
 * Çıkmak için 'ctrl + x' tuşlarına basınız sonra 'Y' ile onaylıyınız.
 * `sudo a2ensite kebab.local`
@@ -57,15 +57,15 @@ Mysql için database ayarı
 * Çıkmak için 'ctrl + x' tuşlarına basınız sonra 'Y' ile onaylıyınız.
 
 <pre>
-    ;database.doctrine.connections.master.dsn     = "mysql://root:root@localhost/kebab_production"
-    database.doctrine.connections.master.dsn     = "sqlite:///" APPLICATION_PATH "/variables/databases/kebab_production.db"
+;database.doctrine.connections.master.dsn     = "mysql://root:root@localhost/kebab_production"
+database.doctrine.connections.master.dsn     = "sqlite:///" APPLICATION_PATH "/variables/databases/kebab_production.db"
 </pre>
 
 yerine
 
 <pre>
-    database.doctrine.connections.master.dsn     = "mysql://kullanici_adi:sifre@localhost/kebab_production"
-    ;database.doctrine.connections.master.dsn     = "sqlite:///" APPLICATION_PATH "/variables/databases/kebab_production.db"
+database.doctrine.connections.master.dsn     = "mysql://kullanici_adi:sifre@localhost/kebab_production"
+;database.doctrine.connections.master.dsn     = "sqlite:///" APPLICATION_PATH "/variables/databases/kebab_production.db"
 </pre>
 
 **Veritabanını oluşturmak**
