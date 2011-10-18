@@ -7,6 +7,8 @@ layout: wikistyle
 
 ## Apache etc/hosts ayarlarının yapılması
 
+Bu yazıda editör olarak nano kullanılmıştır. Siz istediğiniz bir editörü kullanabilirsiniz.
+
 **Nano ile /etc/hosts dosyanıza domain kayıtlarını girmek**
 
 * `sudo nano /etc/hosts`
@@ -27,12 +29,12 @@ layout: wikistyle
 * `sudo nano kebab.local`
 * Aşağıdaki satırları ekliyoruz
 
-<pre>
-  <VirtualHost *:80>
+<code>
+  &#60; VirtualHost *:80>
     ServerName   www.kebab.local
     DocumentRoot /var/www/kebab/web
   </VirtualHost>
-</pre>
+</code>
 
 * Çıkmak için 'ctrl + x' tuşlarına basınız sonra 'Y' ile onaylıyınız.
 * `sudo a2ensite kebab.local`
@@ -52,6 +54,7 @@ Mysql için database ayarı
 * SQLite veritabanı ayarları önüne `;` işareti kullanarak kapatınız
 * MySqli veritabanı ayarlarının önünde ki `;` ifadeyi kaldırınız.
 * MySqli kullanıcı adı ve şifrenizi yazınız.
+* Çıkmak için 'ctrl + x' tuşlarına basınız sonra 'Y' ile onaylıyınız.
 
 <pre>
     ;database.doctrine.connections.master.dsn     = "mysql://root:root@localhost/kebab_production"
@@ -81,3 +84,13 @@ yerine
 
 * admin / admin
 * member /member
+
+**Muhtemel hatalar**
+
+* Apachenin mod-rewrite özelliği açık olmayabilir.
+
+     `sudo a2enmod rewrite` ile açabilirsiniz.
+
+* SQLite kullanırken `./doctrine` scripti çalışmayabilir.
+
+     `/application/variables/databases/` dizini ve veritabanına yazma yetkisi vermemiş olabilirsiniz.
