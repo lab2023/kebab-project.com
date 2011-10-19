@@ -94,3 +94,11 @@ database.doctrine.connections.master.dsn     = "mysql://kullanici_adi:sifre@loca
 * SQLite kullanırken `./doctrine` scripti çalışmayabilir.
 
      `/application/variables/databases/` dizini ve veritabanına yazma yetkisi vermemiş olabilirsiniz.
+
+* Include path veya /library dizini altında Zend Framework 1.11.x  veya Doctrine 1.2.4 olmayabilir.
+
+     `/library` dizini altına Zend Framework ve Doctrine 1.2.4'ü yükleyebilirsiniz.
+
+* `/web/assets/vendors/` dizini altında Ext Js 3.4.0 yüklü olmayabilir.
+
+     `/web/assets/vendors/` dizini altına Ext Js 3.4.0'ı yükleyiniz.
