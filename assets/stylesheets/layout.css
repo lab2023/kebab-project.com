@@ -83,6 +83,13 @@ iframe {
     border: 1px dashed #ccc;
     background-color: #fff;
 }
+
+#fork-me {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: 0;
+}
 #kebab-web-os {
    background: url('../images/logo.jpg') no-repeat center top;
     padding-top: 130px;
@@ -90,7 +97,7 @@ iframe {
 
 #header {
     font-size: 13.5px;
-    width:100%;
+    width:90%;
     margin: auto;
     height: 20px;
 }
