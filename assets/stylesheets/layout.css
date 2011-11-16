@@ -1,0 +1,218 @@
+/*------------------------------------------------------------------------------
+     Global Documentation Styles
+------------------------------------------------------------------------------*/
+
+
+body, html {
+    height: 100%;
+    margin-top: 10px;
+    min-width: 670px;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: #d30d0e;
+    outline: none;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #d30d0e;
+}
+
+a:hover {
+    color: #ee600a;
+}
+
+h1 {
+    color: #000;
+    font-size: 65px;
+    font-smooth: always;
+    letter-spacing: -1px;
+    line-height: 60px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 35px;
+    font-smooth: always;
+    font-weight: normal;
+    letter-spacing: -1px;
+    line-height: 40px;
+    margin-top: 0;
+}
+
+h3, h4 {
+    color: #000;
+    font-smooth: always;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+pre {
+    width:650px;
+    margin: auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+iframe {
+    margin: 10px auto;
+    width:530px;
+    height: 317px;
+    padding: 5px;
+    border: 1px dashed #ccc;
+    background-color: #fff;
+}
+#kebab-web-os {
+   background: url('../images/logo.jpg') no-repeat center top;
+    padding-top: 130px;
+}
+
+#header {
+    font-size: 13.5px;
+    width:100%;
+    margin: auto;
+    height: 20px;
+}
+
+#header span#slogan {
+    float: left;
+    margin: 0 100px;
+    padding: 0;
+    color: silver;
+    font-style: italic;
+}
+
+#header ul#nav {
+    float: right;
+    margin: 0 100px;
+    padding: 0;
+}
+
+#header ul#nav li {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    position: relative;
+    z-index: 2;
+    width: 800px;
+    margin: 15px auto auto;
+}
+
+#links {
+    display: block;
+    margin: 10px auto;
+    padding-left: 45px;
+    width: 620px;
+}
+
+#links li {
+    float: left;
+    text-align: left;
+}
+
+#links h2 {
+    color: #266ccc;
+    font-size: 18px;
+    font-smooth: always;
+    font-weight: normal;
+    margin: 0 0 5px -1px;
+}
+
+#links p {
+    color: #3a3a3a;
+    font-size: 14px;
+}
+
+#links .one {
+    margin-right: 20px;
+    width: 210px;
+}
+
+#links .mid {
+    margin-right: 35px;
+    text-align: center;
+    width: 100px;
+}
+
+#links .mid img {
+    border: 0;
+    margin-top: -10px;
+}
+
+#links .mid #social {
+    margin-top: 5px;
+}
+
+#links .two {
+    margin-right: 20px;
+    width: 210px;
+}
+
+hr.divider {
+    display: block;
+    background: url('../images/divider.png') no-repeat;
+    height: 11px;
+    margin: 35px auto;
+    width: 500px;
+    border: 0;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.dark {
+    color: #000;
+}
+
+#team {
+    width:650px;
+    margin: auto;
+}
+#team p {
+    margin: 10px auto;
+    border: 1px dashed #eee;
+    padding: 10px;
+    width: 291px;
+    height: 160px;
+}
+#team p img {
+    padding: 2px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+/*****************************************************************************/
+/*
+/* Footer
+/*
+/*****************************************************************************/
+#footer {
+    font-size: 13.5px;
+    margin: 10px;
+}
+/* end */
