@@ -94,9 +94,9 @@ iframe {
     right: 0;
     border: 0;
 }
-#kebab-web-os {
-   background: url('../images/logo.jpg') no-repeat center top;
-    padding-top: 130px;
+
+#logo img {
+	height:200px;
 }
 
 #header {
@@ -122,8 +122,8 @@ iframe {
 
 #header ul#nav li {
     display: inline;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 #wrapper {
